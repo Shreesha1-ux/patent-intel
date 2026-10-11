@@ -1,3 +1,5 @@
 30 sec changes checking 1
 
 30 sec  test 2
+
+30 sec test3 for git doc
